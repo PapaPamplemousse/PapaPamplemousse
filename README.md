@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PapaPamplemousse
 - 👀 I’m interested in big robots
-- 🌱 I’m currently learning embeded software
+- 🌱 I am a young software engineer with a specialty in embedded software 
 
 <!---
 PapaPamplemousse/PapaPamplemousse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
