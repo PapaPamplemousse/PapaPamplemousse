@@ -5,4 +5,4 @@
 - 😍 I especially like the hawaian shirts, the Linux environment and the free software world
 
 
-📜 Despite the fact that that most of my public projects are in python, my favorite programming languages are C, C++ and a litlle bit of typescript
+📜 Despite the fact that that most of my public projects are in python, my favorite programming languages are C, C++
