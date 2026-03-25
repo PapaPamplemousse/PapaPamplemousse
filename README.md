@@ -1,7 +1,3 @@
-```c
-for(;;)__asm__ volatile("wfi"); 
-```
-
 ## Selected Projects
 
 * [**SmartCVBuilder**](https://github.com/PapaPamplemousse/SmartCVBuilder) — YAML-to-PDF resume generator.
